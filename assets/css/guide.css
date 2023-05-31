@@ -1,0 +1,19 @@
+.carousel-item img {
+    max-height: 300px;
+    /* Ajustez cette valeur selon vos besoins */
+    object-fit: cover;
+}
+
+button {
+    width: 50%;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    padding: 2%;
+}
+
+h4 {
+    padding: 2%;
+}
